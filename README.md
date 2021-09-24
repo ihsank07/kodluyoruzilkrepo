@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](kodluyoruz.org) Git Eğitimnde oluşturduğumuz bir repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitimnde oluşturduğumuz bir repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 #Installation
 Öncelilkle prejeyi clonelayın. https://github.com/ihsank07/
